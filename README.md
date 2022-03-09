@@ -25,19 +25,19 @@ Files
 
 **Example SOWs:** Two examples of SOWs, one for a two-phase website test and another for a survey/interview engagement. The examples show both different components that can be included based on the different test types, as well as two slightly different formats for creating an SOW. The format is not tied to the test type.
 
-**Example Recruitment Email:** Included are two examples of emails that we sent to recruit CUTgroup members for testing. These were generally sent to the full CUTgroup and linked to screening forms, which were used in the selection process. The examples are related to this case study and this partnership.
+**Example Recruitment Email:** Included are two examples of emails that we sent to recruit CUTgroup members for testing. These were generally sent to the full CUTgroup and linked to screening forms, which were used in the selection process. The examples are related to [this case study](https://www.citytech.org/microsoft-research-project-eclipse) and [this partnership](https://www.citytech.org/osf-healthcare-and-city-tech-address-community-health-needs-through-new-partnership).
 
 **Example Screening Form:** Screening forms are used to gather test-specific questions to aid in participant selection. They are usually linked in the recruitment email.
 
-**Example Test Plans:** These documents outline the plans for conducting the testing, including the timeline, methodology, and test details, and questions. Tests plans are often working documents and refined through multiple client meetings. The example test plans were originally used for the wireframe test related to this case study and a survey related to this partnership.
+**Example Test Plans:** These documents outline the plans for conducting the testing, including the timeline, methodology, and test details, and questions. Tests plans are often working documents and refined through multiple client meetings. The example test plans were originally used for the wireframe test related to [this case study](https://www.citytech.org/unbail) and a survey related to [this partnership](https://www.citytech.org/osf-healthcare-and-city-tech-address-community-health-needs-through-new-partnership).
 
-**Example Proctor Guide:** This is a detailed guide for proctors to follow along while administering the test. It includes all background information, questions to be asked of testers, and additional details. The questions in this guide come from the test plan are mirrored in the intake form so that the proctor can follow this guide, then capture responses in the intake form. This example proctor guide was originally used for the test is related to this case study.
+**Example Proctor Guide:** This is a detailed guide for proctors to follow along while administering the test. It includes all background information, questions to be asked of testers, and additional details. The questions in this guide come from the test plan are mirrored in the intake form so that the proctor can follow this guide, then capture responses in the intake form. This example proctor guide was originally used for the test is related to [this case study](https://www.citytech.org/unbail).
 
-**Example Proctor Quick Guide:** The proctor quick guide gives key highlights from the full proctor guide, including links for testing page and forms. Proctors can keep this handy for reference during the test. This example quick guide was originally used for the test is related to this case study.
+**Example Proctor Quick Guide:** The proctor quick guide gives key highlights from the full proctor guide, including links for testing page and forms. Proctors can keep this handy for reference during the test. This example quick guide was originally used for the test is related to [this case study](https://www.citytech.org/unbail).
 
-**Example Intake Form:** While moderating a test, proctors must submit their answer into this intake form. test. The questions here should mirror those in the test plan. This intake form originally used for the test is related to this case study.
+**Example Intake Form:** While moderating a test, proctors must submit their answer into this intake form. test. The questions here should mirror those in the test plan. This intake form originally used for the test is related to [this case study](https://www.citytech.org/unbail).
  
-**Example Consent Form:** While CUTgroup members have read and agreed to City Tech’s general privacy policy before signing up for a test, this consent form is test specific and was required to be completed prior to the start of a test. The example consent form is related to this case study.
+**Example Consent Form:** While CUTgroup members have read and agreed to City Tech’s general privacy policy before signing up for a test, this consent form is test specific and was required to be completed prior to the start of a test. The example consent form is related to [this case study](https://www.citytech.org/unbail).
 
 Other Useful Links
 --------
